@@ -1,0 +1,2 @@
+# mathematical_modeling
+基于python的数学建模入门
