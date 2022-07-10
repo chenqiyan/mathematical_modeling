@@ -2,13 +2,12 @@
 基于python的数学建模入门
 1. 线性规划问题求解
 求这样一个线性规划的最优解：
-
-image
+![image](https://user-images.githubusercontent.com/70732517/178141866-40342215-b98d-41af-b619-a5803cf1a8c6.png)
 
 2. 非线性规划问题求解
 求这样一个非线性规划的最优解，要求使用scipy.optimize.minimize求解：
 
-image
+![image](https://user-images.githubusercontent.com/70732517/178141872-8bbcf01c-96dc-461a-9744-28d8e6531bc4.png)
 
 3. 指派问题求解
 现在光之国的五位奥特曼与阿布索留特族的五个小金人开始了1v1的车轮战，如果你现在安排奥特兄弟与他们1v1的战斗，每一项代表一个奥解决一个小金人所需要的时间。只有在最短的时间内打败所有小金人才能救出尤莉安公主。请问对于给定的小金人ABCDE，应该按照怎样的战斗策略使得五场战斗的时间总和最短？
