@@ -2,6 +2,8 @@
 基于python的数学建模入门
 1. 线性规划问题求解
 求这样一个线性规划的最优解：
+
+
 ![image](https://user-images.githubusercontent.com/70732517/178141866-40342215-b98d-41af-b619-a5803cf1a8c6.png)
 
 2. 非线性规划问题求解
